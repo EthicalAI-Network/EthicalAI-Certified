@@ -30,3 +30,6 @@ The following `bitsandbytes` quantization config was used during training:
 
 
 - PEFT 0.4.0
+
+- adapter.bin: https://drive.google.com/file/d/12ZQdwusPDyrjLMbDWwUDOA9r9eTI3eak/view?usp=sharing
+- 
