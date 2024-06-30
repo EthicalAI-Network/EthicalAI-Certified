@@ -86,6 +86,7 @@ Measure: Compliance audit scores, laws and regulations broken, etc.
 2. Organizational Rule Compliance
 The level of adherence to a company's or institution's internal code of ethics or rules.
 Measure: Code of ethics violations, number of internal ethical investigations etc.
+
 II. Fairness
 1. Equity
 Operational fairness in a company or institution, examining whether resources and opportunities are shared equitably.
@@ -93,6 +94,7 @@ Measure: Pay disparity figures, diversity statistics, promotion distribution, et
 2. Fair Trade Practices
 Examining the fairness of trade practices, particularly for organizations involved in commerce or trade.
 Measure: Number of fair trade certificates, supplier audits, etc.
+
 III. Empathy and Respect
 1. Respect for Stakeholders
 The degree to which an organization respects the rights and interests of its stakeholders.
@@ -100,6 +102,7 @@ Measure: Stakeholder satisfaction surveys, complaints, etc.
 2. Employee Treatment
 Examining how employees are treated within an organization.
 Measure: Employee satisfaction surveys, worker engagement scores, etc.
+
 IV. Honesty and Transparency
 1. Accountability
 The degree of openness by an organization in making its operations clear and understandable to its stakeholders.
@@ -107,6 +110,7 @@ Measure: Frequency and quality of public disclosures, whistle-blower cases, etc.
 2. Truthfulness
 The measure of deceit or dishonesty within an organization's operations.
 Measure: Fraud cases, misrepresentation cases, etc.
+
 V. Societal Impact
 1. Community Impact
 The degree to which an organization positively impacts the community in which it operates.
@@ -114,6 +118,7 @@ Measure: Community engagement programs, charity work, job creation rates, etc.
 2. Environmental Impact
 The extent to which an organization respects the environment and actively seeks to minimize its negative impacts.
 Measure: Carbon footprint, waste generation, implementation of green initiatives, etc.
+
 VI. Long-term Sustainability
 1. Economic Sustainability
 Long-term financial sustainability of an organization.
