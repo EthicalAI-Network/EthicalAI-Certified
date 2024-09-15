@@ -1,3 +1,11 @@
+
+Obtain Free ECS Cetificate:
+https://docs.google.com/forms/d/e/1FAIpQLSdcEDt1nh4e0q6BmfFIdaKe6MRB8SNFj_DuOLdxBRDqJnfIBQ/viewform
+
+or:
+https://ecs.ethicalAI.network
+Password: ask consensus board member for password
+
 EthicalAI Certified™ is an open-source initiative employing large language models (LLMs) to generate an ethical benchmark score for AI models and systems. It aims to safeguard, distinguish, and enhance the acceptance of products with AI applications. The resultant certification and marker highlight an organization's commitment towards delivering more reliable AI experiences for their users.
 
 Through instructional support, evaluation, and independent corroboration, EthicalAI Certified™ provides the capability to amplify responsible innovation applications, improving the quality of AI use, bolstering trust among key stakeholders, and realizing corresponding advantages.
